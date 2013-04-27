@@ -1,7 +1,11 @@
 #Whoops bundle for Laravel
 
 This bundle replaces the default Laravel 3 error handler with the awesome
-Whoops library.
+Whoops library created by Filipe Dobreira.
+https://github.com/filp/whoops
+
+And is based on the Laravel 3 integration by Hugo Dias.
+https://gist.github.com/hdias/5169713#file-start-php
 
 NOTE: This is the very first Laravel Bundle I'm publishing so if you find something
 wrong or the bundle isn't working for you: please let me know.
